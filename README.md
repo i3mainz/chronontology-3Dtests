@@ -1,6 +1,28 @@
+# The chronOntology repository
+
+## Licence for Data
+
+All data are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International licence</a>. If another license is chosen, it will be mentioned.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+Florian Thiery M.Sc.
+<br />
+[i3mainz](http://i3mainz.hs-mainz.de/en/institute) - Institute for Spatial Information and Surveying Technology
+<br />
+Hochschule Mainz University of Applied Sciences
+
+## Licence for Code
+
 The MIT License (MIT)
 
-Copyright (c) 2015 i3mainz
+Copyright (c) 2015 [i3mainz](http://i3mainz.hs-mainz.de/en/institute)**
+
+**Florian Thiery M.Sc.
+
+**[i3mainz](http://i3mainz.hs-mainz.de/en/institute) - Institute for Spatial Information and Surveying Technology
+
+**Hochschule Mainz University of Applied Sciences
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
