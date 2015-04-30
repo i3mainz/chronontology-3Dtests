@@ -9,7 +9,7 @@
 __author__ = "Axel Kunz"
 __email__ = "axel.kunz@hs-mainz.de"
 __credits__ = ["Axel Kunz", "Florian Thiery"]
-__license__ = "CC BY-SA 4.0"
+__license__ = "The MIT License (MIT)"
 __version__ = "1.0"
 
 import os
