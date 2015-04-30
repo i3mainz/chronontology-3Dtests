@@ -20,6 +20,8 @@ Copyright (c) 2015 [i3mainz](http://i3mainz.hs-mainz.de/en/institute)**
 
 **Florian Thiery M.Sc.
 
+**Axel Kunz M.Sc.
+
 **[i3mainz](http://i3mainz.hs-mainz.de/en/institute) - Institute for Spatial Information and Surveying Technology
 
 **Hochschule Mainz University of Applied Sciences
