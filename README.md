@@ -1,4 +1,6 @@
-# The chronOntology repository
+# chronontology-3Dtests
+
+ChronOntology 3D-Scripts
 
 ## Licence for Data
 
